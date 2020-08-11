@@ -1,0 +1,15 @@
+﻿################################################################################
+# 這個 .gitignore 檔案由 Microsoft(R) Visual Studio 自動建立。
+################################################################################
+
+/NamespaceDemo/bin/Debug
+/.vs/NamespaceDemo/v16
+/NamespaceDemo/obj/Debug
+/NamespaceDemo.Dll/bin/Debug
+/NamespaceDemo.Dll/obj/Debug
+/NamespaceDemo.Dll.Lib/bin/Debug
+/NamespaceDemo.Dll.Lib/obj/Debug
+/NamespaceDemo.Help/bin/Debug
+/NamespaceDemo.Help/obj/Debug
+/NamespaceDemo.Help.Lib/bin/Debug
+/NamespaceDemo.Help.Lib/obj/Debug
